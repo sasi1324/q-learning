@@ -19,8 +19,8 @@ Run loop for each episode, compute the action value function but in Q-Learning t
 # Step 5:
 Return the computed action value function and policy. Plot graph and compare with Monte Carlo results.
 ## Q LEARNING FUNCTION
-### Name: POZHILAN V D
-### Register Number: 212223240118
+### Name: SASINTHARA S
+### Register Number: 212223110045
 
 ## PROGRAM :
 ```
